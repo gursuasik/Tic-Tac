@@ -1,0 +1,19 @@
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Windows\Windows Form Aplication\Tic Tac\Tic Tac\bin\Debug\Tic Tac.exe
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Windows\Windows Form Aplication\Tic Tac\Tic Tac\bin\Debug\Tic Tac.pdb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Windows\Windows Form Aplication\Tic Tac\Tic Tac\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Windows\Windows Form Aplication\Tic Tac\Tic Tac\obj\x86\Debug\Tic_Tac.Properties.Resources.resources
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Windows\Windows Form Aplication\Tic Tac\Tic Tac\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Windows\Windows Form Aplication\Tic Tac\Tic Tac\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Windows\Windows Form Aplication\Tic Tac\Tic Tac\obj\x86\Debug\Tic Tac.exe
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Windows\Windows Form Aplication\Tic Tac\Tic Tac\obj\x86\Debug\Tic Tac.pdb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Windows\Windows Form Aplication\Tic Tac\Tic Tac\obj\x86\Debug\Tic_Tac.Form1.resources
+D:\Documents\Edit\Works\Visual Studio\C#\Windows\Windows Form Aplication\Tic Tac\Tic Tac\obj\x86\Debug\Tic Tac.exe
+D:\Documents\Edit\Works\Visual Studio\C#\Windows\Windows Form Aplication\Tic Tac\Tic Tac\obj\x86\Debug\Tic Tac.pdb
+D:\Documents\Edit\Works\Visual Studio\C#\Windows\Windows Form Aplication\Tic Tac\Tic Tac\bin\Debug\Tic Tac.exe
+D:\Documents\Edit\Works\Visual Studio\C#\Windows\Windows Form Aplication\Tic Tac\Tic Tac\bin\Debug\Tic Tac.pdb
+D:\Documents\Edit\Works\Visual Studio\C#\Windows\Windows Form Aplication\Tic Tac\Tic Tac\obj\x86\Debug\Tic Tac.csprojResolveAssemblyReference.cache
+D:\Documents\Edit\Works\Visual Studio\C#\Windows\Windows Form Aplication\Tic Tac\Tic Tac\obj\x86\Debug\Tic_Tac.Form1.resources
+D:\Documents\Edit\Works\Visual Studio\C#\Windows\Windows Form Aplication\Tic Tac\Tic Tac\obj\x86\Debug\Tic_Tac.Properties.Resources.resources
+D:\Documents\Edit\Works\Visual Studio\C#\Windows\Windows Form Aplication\Tic Tac\Tic Tac\obj\x86\Debug\Tic Tac.csproj.GenerateResource.Cache
+D:\Documents\Works\Visual Studio\C#\Windows\Windows Forms Application\Tic Tac\Tic Tac\obj\x86\Debug\Tic Tac.exe
+D:\Documents\Works\Visual Studio\C#\Windows\Windows Forms Application\Tic Tac\Tic Tac\obj\x86\Debug\Tic Tac.pdb
